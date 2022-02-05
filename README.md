@@ -24,4 +24,5 @@ Training materials   = https://github.com/cvvishalkumar/Training_ContentBuilder/
 
 ### Other info
 WCAG [Web Content Accessibility Guidelines (WCAG) 2.1] = https://www.w3.org/TR/WCAG21/
+
 What is CAN-SPAM? = https://help.salesforce.com/s/articleView?id=sf.mc_es_can_spam_requirements.htm&type=5
