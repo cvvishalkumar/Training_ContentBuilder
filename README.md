@@ -15,6 +15,6 @@ In this session, we will talk about what are the best possible ways to design Em
 ## Other useful links:
 TrainingPresentation = https://quip.com/OlgrAbPbasXf
 
-Training materials   = https://quip.com/tIpKOga5cKiD/2022FEB06-Kanpur-Training
+Training materials   = [a link] (https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_demo.zip)
 
 WCAG [Web Content Accessibility Guidelines (WCAG) 2.1] = https://www.w3.org/TR/WCAG21/
