@@ -18,12 +18,12 @@ In this session, we will talk about what are the best possible ways to design Em
 
 ## Other useful links:
 - [TrainingPresentation](https://quip.com/OlgrAbPbasXf)
-- Template = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Responsive_Email_Template.html
-- Emails = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_Emails.zip [to be imported as package]
-- Data Extensions = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_DataExtensions.zip [To imported as package]
-- IMPORT CSVs =  **Product catelogue** https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Product_catalogue20220206.csv
-                 **Customers** https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_demo_customers20220206.csv
-- Sample Responsive HTML Email = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Sample_content_blocks.html
+- [Responsive Template](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Responsive_Email_Template.html)
+- [Emails Package](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_Emails.zip) [to be imported as package]
+- [Data Extensions package] (https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_DataExtensions.zip) [To imported as package]
+- **IMPORT CSVs** [NTO Product catelogue](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Product_catalogue20220206.csv)  
+                 [NTO Customers](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_demo_customers20220206.csv)
+- [Sample Responsive HTML Email](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Sample_content_blocks.html)
 
 
 ### Other info
