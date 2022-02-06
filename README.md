@@ -1,4 +1,4 @@
-# Training_ContentBuilder
+# [Training_ContentBuilder](https://quip.com/OlgrAbPbasXf)
 This repo contains re-usable stuff which can be used to SFMC Content builder training.
 
 In this session, we will talk about what are the best possible ways to design Email Content.
