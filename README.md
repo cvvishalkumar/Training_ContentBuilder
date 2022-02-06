@@ -3,17 +3,16 @@ This repo contains re-usable stuff which can be used to SFMC Content builder tra
 
 In this session, we will talk about what are the best possible ways to design Email Content.
 
+- Email Design best practices [Presentation]
 
-* Email Design best practices [Presentation]
+- Email Studio Overview [Practical demonstration]
+- Content blocks [Practical demonstration]
+- Email Template [Practical demonstration]
+- Static Email [Practical demonstration]
+- Dynamic Email [Practical demonstration]
 
-* Email Studio Overview [Practical demonstration]
-* Content blocks [Practical demonstration]
-* Email Template [Practical demonstration]
-* Static Email [Practical demonstration]
-* Dynamic Email [Practical demonstration]
-
-* Email Delivery Settings [Practical demonstration]
-* CAN-SPAM rule [Presentation]
+- Email Delivery Settings [Practical demonstration]
+- CAN-SPAM rule [Presentation]
 
 
 
