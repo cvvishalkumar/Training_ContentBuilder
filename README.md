@@ -3,26 +3,35 @@ This repo contains re-usable stuff which can be used to SFMC Content builder tra
 
 In this session, we will talk about what are the best possible ways to design Email Content.
 
-    * Email Design best practices
-    * Email Studio Overview
 
-    * Content blocks
-    * Email Template
-    * Static Email
-    * Dynamic Email
+* Email Design best practices [Presentation]
 
-    * Email Delivery Settings [Send Classifications]
-    * CAN-SPAM rule
+* Email Studio Overview [Practical demonstration]
+* Content blocks [Practical demonstration]
+* Email Template [Practical demonstration]
+* Static Email [Practical demonstration]
+* Dynamic Email [Practical demonstration]
+
+* Email Delivery Settings [Practical demonstration]
+* CAN-SPAM rule [Presentation]
+
+
 
 
 ## Other useful links:
 TrainingPresentation = https://quip.com/OlgrAbPbasXf
 
-Training materials   = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_demo.zip
-[This is the package manager export of the Emails and DataExtensions used for this demo, you can easily import this via Package Manger and practice!]
+Template = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Responsive_Email_Template.html
+
+Emails = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_Emails.zip [to be imported as package]
+
+Data Extensions = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_DataExtensions.zip [To imported as package]
+IMPORT CSVs =  ### Product catelogue https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Product_catalogue20220206.csv
+               ### Customers https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_demo_customers20220206.csv
+
+
+Sample Responsive HTML Email = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Sample_content_blocks.html
 
 
 ### Other info
-WCAG [Web Content Accessibility Guidelines (WCAG) 2.1] = https://www.w3.org/TR/WCAG21/
-
 What is CAN-SPAM? = https://help.salesforce.com/s/articleView?id=sf.mc_es_can_spam_requirements.htm&type=5
