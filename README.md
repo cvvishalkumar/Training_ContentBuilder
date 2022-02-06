@@ -17,7 +17,7 @@ In this session, we will talk about what are the best possible ways to design Em
 
 
 ## Other useful links:
-- TrainingPresentation = https://quip.com/OlgrAbPbasXf
+- [TrainingPresentation](https://quip.com/OlgrAbPbasXf)
 - Template = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Responsive_Email_Template.html
 - Emails = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_Emails.zip [to be imported as package]
 - Data Extensions = https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Shoes_DataExtensions.zip [To imported as package]
