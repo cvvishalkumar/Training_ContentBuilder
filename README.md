@@ -2,16 +2,18 @@
 This repo contains re-usable stuff which can be used to SFMC Content builder training.
 
 In this session, we will talk about what are the best possible ways to design Email Content.
-- Email Design best practices [Presentation]
 
-- Email Studio Overview [Practical demonstration]
-- Content blocks [Practical demonstration]
-- Email Template [Practical demonstration]
-- Static Email [Practical demonstration]
-- Dynamic Email [Practical demonstration]
+## Agenda
+- **Email Design best practices** [Presentation]
 
-- Email Delivery Settings [Practical demonstration]
-- CAN-SPAM rule [Presentation]
+- **Email Studio Overview** [Practical demonstration]
+- **Content blocks** [Practical demonstration]
+- **Email Template** [Practical demonstration]
+- **Static Email** [Practical demonstration]
+- **Dynamic Email** [Practical demonstration]
+
+- **Email Delivery Settings** [Practical demonstration]
+- **CAN-SPAM rule** [Presentation]
 
 
 
@@ -24,8 +26,9 @@ In this session, we will talk about what are the best possible ways to design Em
  - **IMPORT CSVs** 
   - [NTO Product catelogue](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_Product_catalogue20220206.csv)  
   - [NTO Customers](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/NTO_demo_customers20220206.csv)
-- [Sample Responsive HTML Email](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Sample_content_blocks.html)
+
 
 
 ### Other info
-What is CAN-SPAM? = https://help.salesforce.com/s/articleView?id=sf.mc_es_can_spam_requirements.htm&type=5
+- What is CAN-SPAM? = https://help.salesforce.com/s/articleView?id=sf.mc_es_can_spam_requirements.htm&type=5
+- [Sample Responsive HTML Email](https://github.com/cvvishalkumar/Training_ContentBuilder/blob/main/Sample_content_blocks.html)
